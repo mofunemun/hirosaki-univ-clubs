@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: 基本テンプレート
 about: Suggest an idea for this project
 title: ''
 labels: ''
